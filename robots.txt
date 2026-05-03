@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://YOUR_USERNAME.github.io/hostingbharat/sitemap.xml
+Sitemap: https://arunramchandani1-wq.github.io/hostingbharat/sitemap.xml
